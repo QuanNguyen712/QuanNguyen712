@@ -2,4 +2,4 @@ Over 1.5 years working as a Data Analyst in one of the biggest Social Listening 
 [Check out the project to automate ShopeeFood periodical reports' template !]
 
 In pursuit of the progress in the data field, web scraping is the technique that i am heavily investing in outside of the current job to prepare for the promotion of my career
-[Check out the Shopee product- details web scraping project !]
+[Check out the Shopee product- details web scraping project !](https://github.com/QuanNguyen712/Shopee-Data-Scraper-Python-Selenium.git)
